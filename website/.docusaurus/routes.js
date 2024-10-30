@@ -129,15 +129,15 @@ export default [
   },
   {
     path: '/zh-CN/',
-    component: ComponentCreator('/zh-CN/', 'd50'),
+    component: ComponentCreator('/zh-CN/', '458'),
     routes: [
       {
         path: '/zh-CN/',
-        component: ComponentCreator('/zh-CN/', '61c'),
+        component: ComponentCreator('/zh-CN/', '82c'),
         routes: [
           {
             path: '/zh-CN/',
-            component: ComponentCreator('/zh-CN/', 'a00'),
+            component: ComponentCreator('/zh-CN/', '921'),
             routes: [
               {
                 path: '/zh-CN/api/rpc/access-keys',
@@ -1492,7 +1492,7 @@ export default [
               },
               {
                 path: '/zh-CN/tutorials/auction/indexing-historical-data',
-                component: ComponentCreator('/zh-CN/tutorials/auction/indexing-historical-data', 'b95'),
+                component: ComponentCreator('/zh-CN/tutorials/auction/indexing-historical-data', '52f'),
                 exact: true,
                 sidebar: "tutorials"
               },

@@ -344,17 +344,17 @@
       "plugin": "c141421f"
     }
   },
-  "/zh-CN/-d50": {
+  "/zh-CN/-458": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/zh-CN/-61c": {
+  "/zh-CN/-82c": {
     "__comp": "a7bd4aaa",
     "__props": "363b7d6a"
   },
-  "/zh-CN/-a00": {
+  "/zh-CN/-921": {
     "__comp": "a94703ab"
   },
   "/zh-CN/api/rpc/access-keys-c8f": {
@@ -1309,7 +1309,7 @@
     "__comp": "17896441",
     "content": "2075eeab"
   },
-  "/zh-CN/tutorials/auction/indexing-historical-data-b95": {
+  "/zh-CN/tutorials/auction/indexing-historical-data-52f": {
     "__comp": "17896441",
     "content": "51b0cc3a"
   },

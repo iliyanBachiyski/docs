@@ -213,7 +213,7 @@
   },
   "sidebar.tools.link.Jutsu Web Editor": {
     "message": "Jutsu Web Editor",
-    "description": "The label for link Jutsu Web Editor in sidebar tools, linking to https://jutsu.ai/editor"
+    "description": "The label for link Jutsu Web Editor in sidebar tools, linking to https://near.jutsu.ai/"
   },
   "sidebar.tools.link.Remix IDE Plugin": {
     "message": "Remix IDE Plugin",
