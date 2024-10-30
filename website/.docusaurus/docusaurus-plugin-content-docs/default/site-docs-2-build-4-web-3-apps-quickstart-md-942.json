@@ -1,7 +1,7 @@
 {
   "id": "build/web3-apps/quickstart",
   "title": "Hello WebApp",
-  "description": "Most interactions with the NEAR ecosystem can be grouped in 2 categories:",
+  "description": "In this guide we will show you how to quickly spin up a frontend where users can login using their wallets and interact with a contract.",
   "source": "@site/../docs/2.build/4.web3-apps/quickstart.md",
   "sourceDirName": "2.build/4.web3-apps",
   "slug": "/build/web3-apps/quickstart",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/near/docs/edit/master/website/../docs/2.build/4.web3-apps/quickstart.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Guille",
-  "lastUpdatedAt": 1720726438000,
+  "lastUpdatedBy": "Owen",
+  "lastUpdatedAt": 1730208567000,
   "frontMatter": {
     "id": "quickstart",
     "title": "Hello WebApp",

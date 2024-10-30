@@ -1,0 +1,58 @@
+{
+  "permalink": "/zh-CN/blog/2024-10-24-new-tutorial",
+  "source": "@site/../blog/2024-10-24.md",
+  "title": "New Tutorial - Master Applications on NEAR",
+  "description": "You might have noticed that a new tutorial has been added to the docs! This multi-part series is all about learning to build full applications on NEAR; you will see how to build an on-chain auction from start to finish, including the smart contract, deploying it on-chain, and creating a frontend to interact with it.",
+  "date": "2024-10-24T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "updates",
+      "permalink": "/zh-CN/blog/tags/updates"
+    },
+    {
+      "inline": true,
+      "label": "tutorial",
+      "permalink": "/zh-CN/blog/tags/tutorial"
+    },
+    {
+      "inline": true,
+      "label": "getting-started",
+      "permalink": "/zh-CN/blog/tags/getting-started"
+    }
+  ],
+  "readingTime": 0.98,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Owen Hassall",
+      "title": "DevRel",
+      "url": "https://github.com/PiVortex",
+      "socials": {
+        "x": "https://x.com/ThePiVortex",
+        "github": "https://github.com/PiVortex"
+      },
+      "imageURL": "https://github.com/PiVortex.png",
+      "key": "pivortex",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "New Tutorial - Master Applications on NEAR",
+    "authors": [
+      "pivortex"
+    ],
+    "slug": "2024-10-24-new-tutorial",
+    "tags": [
+      "updates",
+      "tutorial",
+      "getting-started"
+    ],
+    "hide_table_of_contents": true
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Future of Pagoda Services",
+    "permalink": "/zh-CN/blog/2024-08-13-pagoda-services"
+  }
+}

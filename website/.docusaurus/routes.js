@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/zh-CN/blog',
-    component: ComponentCreator('/zh-CN/blog', '4ab'),
+    component: ComponentCreator('/zh-CN/blog', 'a1f'),
     exact: true
   },
   {
@@ -15,6 +15,11 @@ export default [
   {
     path: '/zh-CN/blog/2024-08-13-pagoda-services',
     component: ComponentCreator('/zh-CN/blog/2024-08-13-pagoda-services', '641'),
+    exact: true
+  },
+  {
+    path: '/zh-CN/blog/2024-10-24-new-tutorial',
+    component: ComponentCreator('/zh-CN/blog/2024-10-24-new-tutorial', '8bf'),
     exact: true
   },
   {
@@ -74,7 +79,7 @@ export default [
   },
   {
     path: '/zh-CN/blog/tags/getting-started',
-    component: ComponentCreator('/zh-CN/blog/tags/getting-started', '645'),
+    component: ComponentCreator('/zh-CN/blog/tags/getting-started', '5d3'),
     exact: true
   },
   {
@@ -89,12 +94,12 @@ export default [
   },
   {
     path: '/zh-CN/blog/tags/tutorial',
-    component: ComponentCreator('/zh-CN/blog/tags/tutorial', 'd8c'),
+    component: ComponentCreator('/zh-CN/blog/tags/tutorial', '101'),
     exact: true
   },
   {
     path: '/zh-CN/blog/tags/updates',
-    component: ComponentCreator('/zh-CN/blog/tags/updates', '82b'),
+    component: ComponentCreator('/zh-CN/blog/tags/updates', 'c8f'),
     exact: true
   },
   {
@@ -124,15 +129,15 @@ export default [
   },
   {
     path: '/zh-CN/',
-    component: ComponentCreator('/zh-CN/', 'b38'),
+    component: ComponentCreator('/zh-CN/', 'd50'),
     routes: [
       {
         path: '/zh-CN/',
-        component: ComponentCreator('/zh-CN/', 'dcf'),
+        component: ComponentCreator('/zh-CN/', '61c'),
         routes: [
           {
             path: '/zh-CN/',
-            component: ComponentCreator('/zh-CN/', 'b67'),
+            component: ComponentCreator('/zh-CN/', 'a00'),
             routes: [
               {
                 path: '/zh-CN/api/rpc/access-keys',
@@ -1493,7 +1498,7 @@ export default [
               },
               {
                 path: '/zh-CN/tutorials/auction/introduction',
-                component: ComponentCreator('/zh-CN/tutorials/auction/introduction', 'cfa'),
+                component: ComponentCreator('/zh-CN/tutorials/auction/introduction', 'cd6'),
                 exact: true,
                 sidebar: "tutorials"
               },

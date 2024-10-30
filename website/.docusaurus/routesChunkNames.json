@@ -1,11 +1,14 @@
 {
-  "/zh-CN/blog-4ab": {
+  "/zh-CN/blog-a1f": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "b40f3486"
+      },
       {
         "content": "2909ac6f"
       },
@@ -57,6 +60,17 @@
     },
     "sidebar": "814f3328",
     "content": "2dddf570"
+  },
+  "/zh-CN/blog/2024-10-24-new-tutorial-8bf": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d4840aac"
   },
   "/zh-CN/blog/archive-2d5": {
     "__comp": "9e4087bc",
@@ -181,13 +195,16 @@
     ],
     "__props": "a8685f72"
   },
-  "/zh-CN/blog/tags/getting-started-645": {
+  "/zh-CN/blog/tags/getting-started-5d3": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "b40f3486"
+      },
       {
         "content": "9669618f"
       }
@@ -220,7 +237,7 @@
     ],
     "__props": "a5569f61"
   },
-  "/zh-CN/blog/tags/tutorial-d8c": {
+  "/zh-CN/blog/tags/tutorial-101": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -228,18 +245,24 @@
     "sidebar": "814f3328",
     "items": [
       {
+        "content": "b40f3486"
+      },
+      {
         "content": "9669618f"
       }
     ],
     "__props": "a15ebea5"
   },
-  "/zh-CN/blog/tags/updates-82b": {
+  "/zh-CN/blog/tags/updates-c8f": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "b40f3486"
+      },
       {
         "content": "2909ac6f"
       },
@@ -321,17 +344,17 @@
       "plugin": "c141421f"
     }
   },
-  "/zh-CN/-b38": {
+  "/zh-CN/-d50": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/zh-CN/-dcf": {
+  "/zh-CN/-61c": {
     "__comp": "a7bd4aaa",
     "__props": "363b7d6a"
   },
-  "/zh-CN/-b67": {
+  "/zh-CN/-a00": {
     "__comp": "a94703ab"
   },
   "/zh-CN/api/rpc/access-keys-c8f": {
@@ -1290,7 +1313,7 @@
     "__comp": "17896441",
     "content": "51b0cc3a"
   },
-  "/zh-CN/tutorials/auction/introduction-cfa": {
+  "/zh-CN/tutorials/auction/introduction-cd6": {
     "__comp": "17896441",
     "content": "91263078"
   },

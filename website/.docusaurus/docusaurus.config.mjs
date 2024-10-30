@@ -114,6 +114,13 @@ export default {
   ],
   "themeConfig": {
     "image": "docs/assets/welcome-pages/protocol.png",
+    "announcementBar": {
+      "id": "id-0009",
+      "content": "🎉 Master Application on NEAR - Tutorial! A new multi-part tutorial has landed, read more in our <a href=\"/blog/2024-10-24-new-tutorial\">blogpost</a> and check out the <a href=\"/tutorials/auction/introduction\">tutorial itself</a> 🎉",
+      "backgroundColor": "#fcfbfa",
+      "textColor": "#333",
+      "isCloseable": true
+    },
     "prism": {
       "additionalLanguages": [
         "rust",

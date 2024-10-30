@@ -35,6 +35,10 @@
     "hide_table_of_contents": false
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "New Tutorial - Master Applications on NEAR",
+    "permalink": "/vi/blog/2024-10-24-new-tutorial"
+  },
   "nextItem": {
     "title": "An update on the near.org / RPC outage on July 11, 2024",
     "permalink": "/vi/blog/2024-07-11-near-org-outage"

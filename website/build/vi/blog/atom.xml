@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.near.org/vi/blog</id>
     <title>NEAR Documentation Blog</title>
-    <updated>2024-08-13T00:00:00.000Z</updated>
+    <updated>2024-10-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.near.org/vi/blog"/>
     <subtitle>NEAR Documentation Blog</subtitle>
     <icon>https://docs.near.org/vi/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New Tutorial - Master Applications on NEAR]]></title>
+        <id>https://docs.near.org/vi/blog/2024-10-24-new-tutorial</id>
+        <link href="https://docs.near.org/vi/blog/2024-10-24-new-tutorial"/>
+        <updated>2024-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You might have noticed that a new tutorial has been added to the docs! This multi-part series is all about learning to build full applications on NEAR; you will see how to build an on-chain auction from start to finish, including the smart contract, deploying it on-chain, and creating a frontend to interact with it.]]></summary>
+        <content type="html"><![CDATA[<p>You might have noticed that a <a href="https://docs.near.org/tutorials/auction/introduction" target="_blank" rel="noopener noreferrer">new tutorial</a> has been added to the docs! This multi-part series is all about learning to build full applications on NEAR; you will see how to build an on-chain auction from start to finish, including the smart contract, deploying it on-chain, and creating a frontend to interact with it.</p>
+<p>Along the way you will learn several key concepts and how to use many key primitives along the way:</p>
+<ul>
+<li>Creating a simple smart contract</li>
+<li>Writing tests for a contract</li>
+<li>Deploying a contract to <code>testnet</code></li>
+<li>Locking a contract</li>
+<li>Creating a frontend to interact with the contract</li>
+<li>Using an indexing API to view historical bids</li>
+<li>Making cross-contract calls</li>
+<li>Using Non-Fungible Tokens</li>
+<li>Using Fungible Tokens</li>
+<li>Modifying a factory contract to deploy your own contracts</li>
+</ul>
+<p>This tutorial is a great for beginners to follow all the way through, but each section can also be used as a reference guide for different concepts. If you have any feedback or any questions regarding the tutorial please feel free to reach out in the <a href="https://t.me/neardev" target="_blank" rel="noopener noreferrer">Developer Telegram Channel</a>.</p>
+<p><strong>Start the tutorial <a href="https://docs.near.org/tutorials/auction/introduction" target="_blank" rel="noopener noreferrer">here</a></strong></p>
+<p>Let's keep building! 🚀</p>]]></content>
+        <author>
+            <name>Owen Hassall</name>
+            <uri>https://github.com/PiVortex</uri>
+        </author>
+        <category label="updates" term="updates"/>
+        <category label="tutorial" term="tutorial"/>
+        <category label="getting-started" term="getting-started"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Future of Pagoda Services]]></title>
         <id>https://docs.near.org/vi/blog/2024-08-13-pagoda-services</id>
