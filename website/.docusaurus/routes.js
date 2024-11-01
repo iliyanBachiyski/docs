@@ -129,15 +129,15 @@ export default [
   },
   {
     path: '/zh-CN/',
-    component: ComponentCreator('/zh-CN/', '458'),
+    component: ComponentCreator('/zh-CN/', '5f1'),
     routes: [
       {
         path: '/zh-CN/',
-        component: ComponentCreator('/zh-CN/', '82c'),
+        component: ComponentCreator('/zh-CN/', 'd7f'),
         routes: [
           {
             path: '/zh-CN/',
-            component: ComponentCreator('/zh-CN/', '921'),
+            component: ComponentCreator('/zh-CN/', 'efa'),
             routes: [
               {
                 path: '/zh-CN/api/rpc/access-keys',
@@ -1367,7 +1367,7 @@ export default [
               },
               {
                 path: '/zh-CN/tools/ethereum-wallets',
-                component: ComponentCreator('/zh-CN/tools/ethereum-wallets', 'd14'),
+                component: ComponentCreator('/zh-CN/tools/ethereum-wallets', '6f5'),
                 exact: true,
                 sidebar: "tools"
               },
