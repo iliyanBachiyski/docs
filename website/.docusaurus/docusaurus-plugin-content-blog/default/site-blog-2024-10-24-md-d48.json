@@ -51,6 +51,10 @@
     "hide_table_of_contents": true
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Hello Ethereum Wallets!",
+    "permalink": "/zh-CN/blog/hello-ethereum-wallets"
+  },
   "nextItem": {
     "title": "Future of Pagoda Services",
     "permalink": "/zh-CN/blog/2024-08-13-pagoda-services"

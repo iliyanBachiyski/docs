@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/zh-CN/blog',
-    component: ComponentCreator('/zh-CN/blog', 'a1f'),
+    component: ComponentCreator('/zh-CN/blog', '42f'),
     exact: true
   },
   {
@@ -45,6 +45,16 @@ export default [
   {
     path: '/zh-CN/blog/getting-started-on-windows',
     component: ComponentCreator('/zh-CN/blog/getting-started-on-windows', '7b6'),
+    exact: true
+  },
+  {
+    path: '/zh-CN/blog/hello-ethereum-wallets',
+    component: ComponentCreator('/zh-CN/blog/hello-ethereum-wallets', '84e'),
+    exact: true
+  },
+  {
+    path: '/zh-CN/blog/page/2',
+    component: ComponentCreator('/zh-CN/blog/page/2', '284'),
     exact: true
   },
   {
@@ -99,7 +109,7 @@ export default [
   },
   {
     path: '/zh-CN/blog/tags/updates',
-    component: ComponentCreator('/zh-CN/blog/tags/updates', 'c8f'),
+    component: ComponentCreator('/zh-CN/blog/tags/updates', '082'),
     exact: true
   },
   {

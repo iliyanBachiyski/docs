@@ -2,6 +2,12 @@
   "title": "Developer Changelog",
   "items": [
     {
+      "title": "Hello Ethereum Wallets!",
+      "permalink": "/zh-CN/blog/hello-ethereum-wallets",
+      "unlisted": false,
+      "date": "2024-11-07T00:00:00.000Z"
+    },
+    {
       "title": "New Tutorial - Master Applications on NEAR",
       "permalink": "/zh-CN/blog/2024-10-24-new-tutorial",
       "unlisted": false,
