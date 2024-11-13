@@ -139,15 +139,15 @@ export default [
   },
   {
     path: '/zh-CN/',
-    component: ComponentCreator('/zh-CN/', '5f1'),
+    component: ComponentCreator('/zh-CN/', 'b65'),
     routes: [
       {
         path: '/zh-CN/',
-        component: ComponentCreator('/zh-CN/', 'd7f'),
+        component: ComponentCreator('/zh-CN/', 'b44'),
         routes: [
           {
             path: '/zh-CN/',
-            component: ComponentCreator('/zh-CN/', 'efa'),
+            component: ComponentCreator('/zh-CN/', '965'),
             routes: [
               {
                 path: '/zh-CN/api/rpc/access-keys',
@@ -1520,7 +1520,7 @@ export default [
               },
               {
                 path: '/zh-CN/tutorials/auction/updating-the-frontend',
-                component: ComponentCreator('/zh-CN/tutorials/auction/updating-the-frontend', 'e25'),
+                component: ComponentCreator('/zh-CN/tutorials/auction/updating-the-frontend', '0ba'),
                 exact: true,
                 sidebar: "tutorials"
               },
