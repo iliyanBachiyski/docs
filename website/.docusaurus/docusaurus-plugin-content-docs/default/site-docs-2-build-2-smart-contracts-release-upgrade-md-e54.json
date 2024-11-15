@@ -1,7 +1,7 @@
 {
   "id": "build/smart-contracts/release/upgrade",
   "title": "Updating Contracts",
-  "description": "NEAR accounts separate their logic (contract's code) from their state (storage), allowing the code to be changed.",
+  "description": "NEAR accounts separate their logic (contract's code) from their state (storage),",
   "source": "@site/../docs/2.build/2.smart-contracts/release/upgrade.md",
   "sourceDirName": "2.build/2.smart-contracts/release",
   "slug": "/build/smart-contracts/release/upgrade",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "Lyudmil Ivanov",
-  "lastUpdatedAt": 1730307732000,
+  "lastUpdatedAt": 1731676735000,
   "frontMatter": {
     "id": "upgrade",
     "title": "Updating Contracts"
